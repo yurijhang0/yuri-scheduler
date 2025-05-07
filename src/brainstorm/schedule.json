@@ -1,0 +1,83 @@
+[
+  {
+    "month": "April",
+    "days": [
+      {
+        "day": 0,
+        "events": [
+          {
+            "eventKey": 0,
+            "eventName": "Dinner Date",
+            "eventStartTs": "01:02:03",
+            "eventEndTs": "02:00:03"
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "events": [
+          {
+            "eventKey": 0,
+            "eventName": "Dinner Date",
+            "eventStartTs": "01:02:03",
+            "eventEndTs": "02:00:03"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "May",
+    "days": [
+      {
+        "day": 0,
+        "events": [
+          {
+            "eventKey": 0,
+            "eventName": "Dinner Date",
+            "eventStartTs": "01:02:03",
+            "eventEndTs": "02:00:03"
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "events": [
+          {
+            "eventKey": 0,
+            "eventName": "Dinner Date",
+            "eventStartTs": "01:02:03",
+            "eventEndTs": "02:00:03"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "month": "June",
+    "days": [
+      {
+        "day": 0,
+        "events": [
+          {
+            "eventKey": 0,
+            "eventName": "Dinner Date",
+            "eventStartTs": "01:02:03",
+            "eventEndTs": "02:00:03"
+          }
+        ]
+      },
+      {
+        "day": 5,
+        "events": [
+          {
+            "eventKey": 0,
+            "eventName": "Dinner Date",
+            "eventStartTs": "01:02:03",
+            "eventEndTs": "02:00:03"
+          }
+        ]
+      }
+    ]
+  }
+]
