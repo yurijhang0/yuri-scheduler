@@ -64,7 +64,7 @@ html {
   background: transparent;
 }
 
-.scheduler-btn_left {
+.scheduler-btn_left_enable {
   border-left: none;
   border-right: 15px solid rgb(240, 237, 237);
   &:hover {
@@ -75,7 +75,12 @@ html {
   }
 }
 
-.scheduler-btn_right {
+.scheduler-btn_left_disable {
+  border-left: none;
+  border-right: 15px solid rgb(65, 62, 62);
+}
+
+.scheduler-btn_right_enable {
   border-left: 15px solid rgb(240, 237, 237);
   border-right: none;
   &:hover {
@@ -84,4 +89,9 @@ html {
   &:active {
     border-left-color: rgb(121, 58, 58);
   }
+}
+
+.scheduler-btn_right_disable {
+  border-left: 15px solid rgb(65, 62, 62);
+  border-right: none;
 }
